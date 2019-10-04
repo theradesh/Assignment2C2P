@@ -1,0 +1,16 @@
+D:\test1\test1\bin\Debug\netcoreapp2.2\test1.deps.json
+D:\test1\test1\bin\Debug\netcoreapp2.2\test1.runtimeconfig.json
+D:\test1\test1\bin\Debug\netcoreapp2.2\test1.runtimeconfig.dev.json
+D:\test1\test1\bin\Debug\netcoreapp2.2\test1.dll
+D:\test1\test1\bin\Debug\netcoreapp2.2\test1.pdb
+D:\test1\test1\obj\Debug\netcoreapp2.2\test1.csproj.CoreCompileInputs.cache
+D:\test1\test1\obj\Debug\netcoreapp2.2\test1.RazorAssemblyInfo.cache
+D:\test1\test1\obj\Debug\netcoreapp2.2\test1.RazorAssemblyInfo.cs
+D:\test1\test1\obj\Debug\netcoreapp2.2\test1.AssemblyInfoInputs.cache
+D:\test1\test1\obj\Debug\netcoreapp2.2\test1.AssemblyInfo.cs
+D:\test1\test1\obj\Debug\netcoreapp2.2\test1.RazorTargetAssemblyInfo.cache
+D:\test1\test1\obj\Debug\netcoreapp2.2\test1.dll
+D:\test1\test1\obj\Debug\netcoreapp2.2\test1.pdb
+D:\test1\test1\bin\Debug\netcoreapp2.2\testhost.exe
+D:\test1\test1\bin\Debug\netcoreapp2.2\testhost.dll
+D:\test1\test1\obj\Debug\netcoreapp2.2\test1.csprojAssemblyReference.cache
